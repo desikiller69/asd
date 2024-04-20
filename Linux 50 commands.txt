@@ -1,0 +1,49 @@
+ls- display info about files in current dir
+pwd- display curent working directory
+mkdir- create a dir
+cd- navigate between diff folders
+rmdir- remove empty dir from dir lists
+cp- move files from one dir to another
+mv- rename and replace the files
+rm- delete files
+uname- basic info about os
+locate- find file in database
+touch- create empty file
+ln- create shortcut to other files
+cat- display file content on terminal
+clear- clear terminal
+ps- display that process in terminal
+man- access manual for all linux commands
+grep- search for a specific string in an output
+echo- display active processes on the terminal
+wget- download a file from internet
+whoami- create an update for the existing user
+sort- sort file content
+cal- view calender
+whereis- exact location of any command typed after this command
+df- check details of file system
+wc- check line, word count and characters in a file using diff options
+lens- linux commands to display paged output in terminal
+tar- command to extract and compress files in linux
+head- return specified number of line from top
+tail- return specified number of line from bottom
+diff- find diff btw two files
+kill and kill all- kill active processes by process ID
+zip- zip files in linux
+unzip- unzip files in linux
+ssh- secure shell command in linux
+cmp- allows to check if two files are identical
+comm- combines fucntionality of diff and cmp
+export- export environment variable in linux
+mount- mount file system in linux
+chmod- command for granting ownership of files or folders
+ipconfig- display network interface and ip address
+traceroute- trace all network hops to reach
+ufw- firewall command
+sudo- command to excalate
+alias-create custom shortcut for regularly used command
+whatis- find what a command is used for
+top- view active process live wih system usage
+passwd- create or update password for existing user
+dd- majorly ysed for creating bootable usb sticks
+apt,pacman,yum,rpm- Package managers depending on disks 
